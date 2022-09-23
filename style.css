@@ -21,7 +21,8 @@ body {
 
 .profilepic {
   /* visibility: hidden; */
-  size: 20px;
+  width: 150px;
+  padding: 0.5%;
 }
 
 header {
