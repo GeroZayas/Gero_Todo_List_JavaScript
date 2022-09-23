@@ -19,6 +19,11 @@ body {
   min-width: 100vh;
 }
 
+.profilepic {
+  /* visibility: hidden; */
+  size: 20px;
+}
+
 header {
   font-size: 2rem;
 }
